@@ -1,0 +1,9 @@
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\bin\Debug\HabitatHomeBot.Services.dll
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\bin\Debug\HabitatHomeBot.Services.pdb
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\obj\Debug\HabitatHomeBot.Services.csproj.CoreCompileInputs.cache
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\obj\Debug\HabitatHomeBot.Services.csproj.CopyComplete
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\obj\Debug\HabitatHomeBot.Services.dll
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\obj\Debug\HabitatHomeBot.Services.pdb
+C:\Dropbox\Symposium2018\HabitatHomeBot\HabitatHomeBot.Services\obj\Debug\HabitatHomeBot.Services.csprojAssemblyReference.cache
